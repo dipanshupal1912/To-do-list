@@ -1,7 +1,7 @@
 # To-do-list
 A simple and responsive To-Do List application built with HTML, CSS, and JavaScript. This project allows users to add, delete, and mark tasks as completed. It demonstrates fundamental front-end development skills including DOM manipulation, event handling, and local storage.
 
-✨ Features
+Features :-
 
 Add new tasks
 
@@ -15,7 +15,7 @@ Persistent data using Local Storage
 
 Responsive design for mobile and desktop
 
-🚀 Technologies Used
+Technologies Used :-
 
 HTML5 – Structure of the app
 
